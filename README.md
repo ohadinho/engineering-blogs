@@ -670,6 +670,7 @@
 
 #### O individuals
 * Ofer Zelig https://fullstack.info
+* Ohad Avenshtein https://medium.com/@ohadinho25
 * Ole Begemann https://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 
